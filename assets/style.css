@@ -1,0 +1,16 @@
+.content {
+	margin: 0 auto;
+	width: 500px;
+	text-align: center;
+}
+
+.sleft, .sright {
+	float: left;
+	width: 230px;
+	padding: 10px;
+	text-align: center;
+}
+
+.serror {
+	color: red;
+}
